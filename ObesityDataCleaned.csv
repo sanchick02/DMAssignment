@@ -1,0 +1,91 @@
+﻿No,Occupation,Education Level,Age,Gender,Race,Weight,Height,BMI,OW,Htension,Diabetes,HC,HD,smoking,FAMILY HISTORY( Have any of your parents or siblings encountered the following problems?),Fried Food,FRUITS,VEGETABLES,MEAT,PROC FOOD,SLEEP > 8,STRESS,EXERCISES
+1,Housewife,Secondary,82,Female,Others,65,173,30,1,1,1,1,1,1,High Cholesterol,1,No,No,Yes,No,NO,No,No
+2,Supervisor,Secondary,59,Male,Chinese,71,169,25,1,1,1,1,1,1,High Cholesterol,1,No,No,No,No,NO,Yes,Yes
+3,Pensioner,Secondary,74,Male,Others,58,161,22,1,1,1,1,1,1,Heart Attack,1,Yes,Yes,Yes,Yes,NO,No,No
+4,Pensioner,Secondary,59,Male,Malay,80,156,33,1,1,1,1,1,1,High Cholesterol,1,No,No,No,No,NO,Yes,Yes
+5,Doctor,Tertiary,67,Male,Indian,79,168,28,1,1,1,1,1,1,NO CONDITIONS,1,No,Yes,Yes,No,NO,No,Yes
+6,Pensioner,Secondary,68,Male,Indian,62,148,28,1,1,1,1,1,1,Congenital Heart Disease,1,No,No,No,Yes,NO,No,No
+7,Engineer,Tertiary,74,Male,Chinese,90,180,28,1,1,0,0,1,0,High Cholesterol,1,Yes,No,Yes,Yes,NO,Yes,Yes
+8,Pensioner,Secondary,75,Male,Malay,76,154,32,1,1,1,1,0,1,High Cholesterol,1,Yes,Yes,No,Yes,NO,No,Yes
+9,Housewife,Secondary,79,Female,Indian,61,177,19,1,1,1,0,0,0,Heart Attack,1,Yes,No,Yes,Yes,NO,No,No
+10,Housewife,Secondary,63,Female,Malay,76,156,31,1,0,0,1,0,0,Heart Attack,1,Yes,Yes,Yes,Yes,NO,No,No
+11,Teacher,Tertiary,49,Male,Indian,73,161,28,1,1,0,1,1,1,High Cholesterol,1,Yes,No,Yes,Yes,NO,Yes,No
+12,Housewife,Secondary,63,Female,Indian,65,162,25,1,1,1,1,0,0,High Cholesterol,1,No,Yes,Yes,Yes,NO,No,No
+13,Manager,Secondary,53,Male,Malay,83,158,33,1,1,0,1,0,1,High Cholesterol,1,No,No,No,No,NO,YES,No
+14,Doctor,Tertiary,66,Male,Indian,82,177,26,1,1,1,1,1,1,High Cholesterol,0,Yes,No,Yes,No,NO,Yes,No
+15,Housewife,Secondary,75,Female,Indian,72,172,24,1,1,1,0,1,0,Heart Attack,1,No,Yes,Yes,Yes,NO,Yes,Yes
+16,Postman,Secondary,55,Male,Malay,60,165,22,1,1,0,1,0,1,High Cholesterol,1,No,Yes,No,No,NO,Yes,No
+17,Pensioner,Secondary,69,Male,Chinese,79,174,26,1,1,1,1,1,0,Heart Attack,0,No,Yes,Yes,No,NO,No,No
+18,pensioner,Secondary,71,Male,Malay,102,167,37,1,1,1,1,0,1,High Cholesterol,1,Yes,No,Yes,Yes,NO,No,No
+19,Housewife,Secondary,61,Female,Chinese,58,156,24,1,1,0,1,1,1,High Cholesterol,1,No,No,No,Yes,NO,No,Yes
+20,director,Tertiary,55,Male,Indian,70,155,29,1,1,0,1,1,0,High Cholesterol,0,Yes,Yes,Yes,Yes,NO,Yes,Yes
+21,Housewife,Secondary,65,Female,Indian,123,123,38,1,1,1,1,0,1,High Cholesterol,0,No,Yes,No,No,NO,Yes,No
+22,Pensioner,Secondary,79,Male,Others,58,160,23,1,1,0,1,1,1,NO CONDITIONS,1,No,No,No,No,NO,Yes,Yes
+23,architect,Tertiary,41,Male,Malay,85,163,32,1,1,0,0,1,1,Heart Operation,1,Yes,Yes,No,Yes,NO,Yes,No
+24,Accountant,Tertiary,53,Male,Indian,55,169,19,1,1,1,1,0,1,Heart Attack,0,Yes,Yes,No,No,NO,No,Yes
+25,Bank Officer,Tertiary,49,Female,Malay,60,158,24,1,0,1,0,0,0,NO CONDITIONS,1,No,No,No,Yes,NO,Yes,No
+26,Accounts Clerk,Secondary,80,Male,Indian,63,155,26,1,1,0,1,1,0,High Cholesterol,0,Yes,Yes,No,No,YES,No,No
+27,Pensioner,Secondary,84,Male,Chinese,79,171,27,1,1,1,1,1,1,High Cholesterol,1,No,No,No,Yes,NO,No,No
+28,Housewife,Secondary,79,Female,Chinese,90,175,29,0,1,1,1,1,0,Heart Attack,0,Yes,Yes,No,No,NO,No,No
+29,Retired,Secondary,59,Male,Indian,48,154,20,0,1,0,1,1,1,Heart Attack,0,Yes,Yes,No,No,YES,No,Yes
+30,Manager,Secondary,55,Female,Malay,74,154,31,0,1,1,1,0,0,High Cholesterol,0,Yes,Yes,No,No,NO,Yes,Yes
+31,professor,Tertiary,59,Male,Indian,85,145,40,1,0,0,0,0,0,NO CONDITIONS,1,No,No,No,No,NO,Yes,No
+32,Businesswoman,Secondary,48,Female,Indian,56,159,38,1,1,1,1,1,0,Congenital Heart Disease,1,No,No,No,No,NO,yes,Yes
+33,pensioner,Tertiary,59,Female,Indian,45,157,39,1,1,1,0,1,0,Heart Attack,1,No,No,No,No,NO,No,Yes
+34,Retired councelor,Tertiary,64,Male,Indian,72,171,40,1,1,1,0,1,0,Heart Attack,1,Yes,Yes,Yes,No,NO,No,Yes
+35,Executive Manager,Tertiary,48,Male,Indian,70,160,40,1,1,1,1,0,1,High Cholesterol,1,No,Yes,No,No,YES,Yes,No
+36,accountant,Tertiary,49,Male,Indian,49,162,40,1,1,0,1,1,0,Heart Attack,0,No,Yes,No,No,YES,Yes,No
+37,Housewife,Secondary,73,Female,Indian,83,156,34,1,1,1,1,1,0,Heart Attack,1,Yes,Yes,No,No,NO,No,No
+38,business,Tertiary,55,Male,Malay,82,177,26,1,0,0,1,0,0,High Cholesterol,1,Yes,Yes,No,No,NO,No,No
+39,Pensioner,Secondary,56,Male,Indian,53,165,19,1,0,0,1,0,1,High Cholesterol,0,No,No,No,No,NO,No,Yes
+40,doctor,Tertiary,72,Male,Indian,78,178,25,1,0,1,1,1,0,Heart Attack,0,No,No,No,No,NO,No,Yes
+41,doctor,Tertiary,68,Male,Indian,90,171,31,1,0,1,1,1,0,Heart Attack,0,No,No,No,No,NO,No,Yes
+42,accountant,Tertiary,66,Male,Indian,45,150,20,1,0,1,1,1,0,Heart Attack,0,Yes,No,No,No,NO,Yes,Yes
+43,Clerk,Secondary,53,Female,Chinese,97,181,30,1,1,1,1,0,1,Heart Attack,0,Yes,Yes,No,No,NO,No,Yes
+44,Company Manager,Secondary,49,Male,Malay,81,165,30,1,1,1,1,1,1,Heart Operation,1,Yes,Yes,No,No,NO,Yes,Yes
+45,Doctor,Tertiary,72,Male,Indian,75,172,25,1,1,1,1,1,0,Heart Attack,0,No,Yes,No,No,NO,No,Yes
+46,Biochemist,Tertiary,54,Male,Indian,54,149,24,1,1,1,1,1,1,High Cholesterol,1,No,Yes,No,No,NO,No,Yes
+47,Housewife,Secondary,75,Female,Indian,85,168,30,1,1,1,1,1,0,High Cholesterol,1,No,Yes,No,No,NO,No,No
+48,Supervisor,Secondary,36,Male,Indian,54,165,20,1,1,1,1,0,1,Heart Attack,1,No,Yes,Yes,Yes,NO,Yes,No
+49,Officer,Secondary,57,Male,Malay,60,150,27,1,1,1,1,1,0,High Cholesterol,0,No,No,No,No,NO,No,Yes
+50,Staff at Ijn,Tertiary,30,Female,Malay,90,179,28,1,1,1,0,0,0,Heart Attack,1,Yes,Yes,Yes,Yes,NO,Yes,Yes
+51,Housewife,Secondary,74,Female,Indian,45,158,18,1,1,1,0,1,0,High Cholesterol,0,Yes,Yes,No,No,NO,No,Yes
+52,Pensioner,Secondary,84,Male,Indian,88,177,28,1,1,1,1,0,1,Heart Attack,1,No,Yes,No,No,NO,No,Yes
+53,Pensioner,Secondary,78,Male,Chinese,77,168,27,1,1,1,1,1,0,High Cholesterol,0,Yes,Yes,No,No,NO,No,Yes
+54,Housewife,Secondary,34,Female,Indian,85,160,33,0,1,1,0,1,0,Congenital Heart Disease,0,Yes,Yes,No,No,NO,Yes,No
+55,Housewife,Secondary,56,Female,Indian,65,157,26,1,1,1,1,1,0,NO CONDITIONS,0,No,No,No,No,NO,Yes,Yes
+56,Pensioner ,Secondary,61,Female,Malay,80,170,28,0,1,1,1,0,0,Heart Attack,1,No,No,Yes,No,NO,No,No
+57,Security Guard (UPM),Secondary,50,Male,Malay,85,183,25,0,1,1,1,1,1,High Cholesterol,1,No,No,Yes,No,NO,No,No
+58,Pensioner,Secondary,58,Female,Indian,105,178,33,1,1,1,1,1,0,High Cholesterol,1,No,Yes,Yes,No,NO,No,No
+59,Business,Secondary,68,Male,Indian,50,158,20,1,1,1,1,1,1,Heart Attack,1,No,No,Yes,No,NO,Yes,Yes
+60,Housewife,Secondary,55,Female,Chinese,85,160,33,1,1,1,1,1,0,High Cholesterol,1,Yes,No,Yes,No,NO,No,No
+61,Doctor (Pensioner),Tertiary,92,Male,Indian,44,163,17,1,1,1,1,1,0,High Cholesterol,0,No,No,No,No,YES,No,No
+62,Pensioner,Secondary,76,Male,Malay,69,178,22,1,1,1,1,1,1,High Cholesterol,1,No,No,Yes,No,NO,No,No
+63,Pensioner,Secondary,73,Female,Malay,68,154,29,1,1,0,1,1,0,High Cholesterol,1,No,Yes,Yes,No,NO,No,No
+64,Businessman,Secondary,63,Male,Chinese,48,157,19,0,1,1,1,0,1,High Cholesterol,1,Yes,No,Yes,No,NO,Yes,No
+65,Priest,Secondary,44,Male,Indian,80,177,26,1,1,1,1,0,1,High Cholesterol,1,No,No,No,Yes,NO,No,No
+66,Pensioner,Tertiary,72,Female,Malay,62,173,21,1,1,1,1,1,0,High Cholesterol,1,Yes,No,Yes,No,NO,No,Yes
+67,Pensioner,Tertiary,75,Male,Malay,39,152,17,1,1,1,1,1,1,High Cholesterol,1,Yes,No,Yes,No,NO,No,Yes
+68,Pensioner,Secondary,76,Male,Indian,30,142,15,1,1,1,1,1,1,NO CONDITIONS,0,Yes,No,No,No,NO,No,No
+69,Computer Setting,Secondary,38,Female,Indian,50,136,27,1,1,1,1,1,0,NO CONDITIONS,1,No,No,No,No,NO,No,No
+70,Housewife,Secondary,83,Female,Indian,56,169,20,1,1,1,1,1,0,High Cholesterol,1,Yes,Yes,Yes,No,NO,No,No
+71,Pharmacist,Tertiary,34,Female,Others,58,179,18,1,1,1,0,0,1,High Cholesterol,1,Yes,Yes,Yes,No,NO,Yes,Yes
+72,Secretary,Secondary,53,Female,Malay,105,180,32,1,0,0,0,1,0,High Cholesterol,0,No,Yes,Yes,No,NO,Yes,No
+73,Pensioner,Tertiary,83,Female,Malay,61,175,20,1,1,1,1,1,0,Heart Attack,1,No,Yes,Yes,No,NO,No,No
+74,Veterinary,Tertiary,65,Male,Indian,71,184,21,0,1,0,0,0,1,NO CONDITIONS,0,No,No,Yes,No,NO,Yes,No
+75,Doctor (pension),Tertiary,66,Male,Others,80,156,33,1,1,1,1,0,0,High Cholesterol,1,Yes,No,No,Yes,NO,No,Yes
+76,Housewife,Secondary,87,Female,Chinese,50,172,17,1,1,0,1,1,1,NO CONDITIONS,0,No,No,No,No,NO,No,Yes
+77,Housewife,Secondary,57,Female,Indian,80,166,29,1,1,1,1,0,0,Heart Operation,1,Yes,Yes,No,No,NO,No,No
+78,Business,Secondary,58,Male,Indian,54,155,22,1,1,1,1,1,1,Heart Attack,1,Yes,Yes,Yes,Yes,NO,Yes,No
+79,Doctor,Tertiary,67,Male,Indian,76,176,25,0,1,0,0,1,1,NO CONDITIONS,1,Yes,No,Yes,No,NO,Yes,No
+80,Dentist,Tertiary,54,Male,Malay,82,166,30,1,1,0,1,1,0,High Cholesterol,1,No,Yes,No,No,NO,Yes,Yes
+81,Housewife,Secondary,57,Female,Indian,45,158,18,1,1,1,1,1,0,Heart Attack,1,No,Yes,No,No,NO,No,Yes
+82,Doctor,Tertiary,46,Female,Indian,58,168,21,0,0,0,1,1,0,NO CONDITIONS,1,No,No,No,No,NO,Yes,No
+83,Pensioner,Secondary,68,Male,Indian,43,158,17,1,1,1,0,0,1,Heart Attack,1,No,No,Yes,No,NO,No,No
+84,housewife,Secondary,69,Female,Others,74,165,27,1,1,1,0,0,0,High Cholesterol,0,Yes,No,Yes,Yes,NO,No,Yes
+85,General workers,Secondary,52,Male,Indian,102,167,37,1,1,0,1,1,1,Heart Attack,1,Yes,Yes,Yes,No,NO,No,Yes
+86,General worker,Secondary,56,Male,Malay,70,175,23,1,1,0,1,1,1,High Cholesterol,1,Yes,Yes,No,No,NO,Yes,Yes
+87,Housewife,Secondary,70,Female,Indian,59,154,25,1,1,1,1,1,0,NO CONDITIONS,1,No,No,Yes,No,NO,No,No
+88,housewife,Secondary,61,Female,Indian,58,156,24,1,1,1,1,0,0,Heart Attack,1,No,No,No,Yes,NO,Yes,Yes
+89,housewife,Secondary,57,Female,Indian,78,157,32,1,1,1,1,1,0,High Cholesterol,1,Yes,Yes,Yes,No,NO,Yes,No
+90,housewife,Secondary,49,Female,Indian,60,157,24,1,1,1,1,1,0,Heart Attack,1,Yes,Yes,Yes,Yes,NO,No,No
