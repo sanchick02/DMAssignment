@@ -1,4 +1,4 @@
-﻿No,Occupation,Education Level,Age,Gender,Race,Weight,Height,BMI,OW,Htension,Diabetes,HC,HD,smoking,FAMILY HISTORY( Have any of your parents or siblings encountered the following problems?),Fried Food,FRUITS,VEGETABLES,MEAT,PROC FOOD,SLEEP > 8,STRESS,EXERCISES
+No,Occupation,EducationLevel,Age,Gender,Race,Weight,Height,BMI,OW,Htension,Diabetes,HC,HD,smoking,FamilyHistory,FriedFood,Fruits,Vegetables,Meat,ProcFood,Sleep>8,Stress,Exercises
 1,Housewife,Secondary,82,Female,Others,65,173,30,1,1,1,1,1,1,High Cholesterol,1,No,No,Yes,No,NO,No,No
 2,Supervisor,Secondary,59,Male,Chinese,71,169,25,1,1,1,1,1,1,High Cholesterol,1,No,No,No,No,NO,Yes,Yes
 3,Pensioner,Secondary,74,Male,Others,58,161,22,1,1,1,1,1,1,Heart Attack,1,Yes,Yes,Yes,Yes,NO,No,No
